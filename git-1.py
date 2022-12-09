@@ -9,6 +9,7 @@ def main():
     print('UFO came and added this line')
     my_superfunction()
     print(1)
+    print(20)
 
 
 if __name__ == '__main__':
